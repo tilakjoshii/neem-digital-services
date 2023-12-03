@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    outline: none !important;
+}
+
+:root {
+    --font_family: "Product Sans";
+    --para_color: #585858;
+    --title_color: #1d1d1d;
+    --theme_color: #008bf2;
+    --black: #000;
+    --label: #999;
+    --footer_clr: #1d164d;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* ************************section 1**************** */
+.dgtl_mrktng_nw_bnr {
+    background-color: #258bbf;
+    background-image: url(https://cdn-hjokj.nitrocdn.com/xKvPrJeRKcMfBVHKpjbxbYMvqmxtHXge/assets/images/optimized/rev-8d518bc/d3l9a8mvoa6cl8.cloudfront.net/wp-content/uploads/2023/08/28113818/dgtl_bnr_bg.png);
+    height: 750px;
+    background-position: center bottom;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nv_spc {
+    padding-top: 130px;
+}
+main, div, section, ul, li, a, button, header, footer, nav {
+    transition: ease-in-out .1s;
+}
+.fix_container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 90%;
+}
