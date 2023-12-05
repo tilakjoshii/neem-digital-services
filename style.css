@@ -1818,7 +1818,7 @@ padding: 60px 0;
 .dgtl_prks_sldr .slick-prev:before, .dgtl_prks_sldr .slick-next:before {
     position: absolute;
     content: "";
-    background: url(./assets/images/prks_arw.png);
+    background: url("./assets/images/prks_arw.png");
     width: 28px;
     height: 19px;
     background-repeat: no-repeat;
